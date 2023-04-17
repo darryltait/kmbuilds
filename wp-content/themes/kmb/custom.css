@@ -1,0 +1,24 @@
+/*=Custom
+-----------------------------------------------------------*/
+
+.content-bkg {
+    background-color: coral;
+    
+}
+
+.slide-bkg {
+    background-color: tan;
+}
+
+.hero-image {
+    object-fit: cover;
+    width: 100%;
+
+
+}
+.slide-block, .carousel-item {
+    height: 60vh;
+    background-color: tan;
+    object-fit: cover;
+    overflow: hidden;
+}
